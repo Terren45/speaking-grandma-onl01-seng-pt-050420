@@ -1,6 +1,5 @@
-def speak_to_grandma
-  if "I LOVE YOU GRANDMA!" 
-end #speak_to_grandma
+ speak_to_grandma
+   #speak_to_grandma
    # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
@@ -14,3 +13,4 @@ end #speak_to_grandma
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+
