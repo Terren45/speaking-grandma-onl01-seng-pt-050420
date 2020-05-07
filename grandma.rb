@@ -16,4 +16,6 @@
 
 def speak_to_grandma(phase)
   if phase == "I LOVE YOU GRANDMA!"
-    I LOVE YOU TOO PUMPKIN
+    "I LOVE YOU TOO PUMPKIN!"
+  else
+    
